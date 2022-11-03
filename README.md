@@ -3,7 +3,9 @@
 https://app.powerbi.com/groups/fa6dadae-c483-4b9b-8fb7-ad90b7961513/reports/99a88cef-8c83-4e4d-848e-d538739ba950/ReportSection1f97d4cbcb974b358737
 
 
-## Business Insight Analysis
+# Business Insight Analysis
+
+### Introduction
 
 Mapol is a tech company that produces hardware, distribute to different customers, from where products get sold to consumers all over the world
 Mapol also sells these products directly from their online and physical sales platform. 
@@ -14,7 +16,9 @@ based on surveys and intuition, therefore they decided to onboard data analytics
 making across board in their organisation hoping to increase business profit thereby. 
 
 The analyst team will provide an interactive dashboard that will allow different departments get respective related insight and thus make data driven decisions
- 
+
+### Explanation
+
 •	This is an end-to-end Data analysis project that produced a report that was shared on the online power BI platform, which enable users to make a data informed decision
 
 https://app.powerbi.com/groups/fa6dadae-c483-4b9b-8fb7-ad90b7961513/reports/99a88cef-8c83-4e4d-848e-d538739ba950/ReportSection1f97d4cbcb974b358737
