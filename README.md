@@ -51,8 +51,11 @@ v)	The executive view gives overview relating top performance, this will aid tar
 
 This report provides immediate detailed insight with high degree of granularity to individual department, as well as the executives. Consequently, data guided decisions could be instantly arrived at and revenue and profit margin can be shored up.
 
-Acknowledgement:
+### Acknowledgement:
 
 I appreciate codebasics.io teams for providing the data and training me through this project. 
+
 I also give appreciation to FlatIcon for providing the background and icons used in this project.
+
 (<a href="https://www.flaticon.com/free-icons/m" title="m icons">M icons created by Freepik - Flaticon</a>)
+
